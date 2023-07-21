@@ -10,6 +10,8 @@
 
 **Backend** : [EMR - Event Media Rugby](https://github.com/Hike42/RWC-23-EMR)
 
+Le **Figma** : [ICI](https://www.figma.com/file/VMaQADLN8D6ciBGDODx9mb/Rugby-GPT?type=design&node-id=0%3A1&mode=design&t=sBrViu4rAHa9xNuU-1)
+
 Pour les repos React, tous réalisés à partir de Vite : 
 
 ```
