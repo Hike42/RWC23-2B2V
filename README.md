@@ -8,7 +8,7 @@
 
 **Login** : [RWC23-Login](https://github.com/Hike42/RWC23-Login)
 
-**Backend** : [EMR - Event Media Rugby](https://github.com/Arkansiel92/EMR/tree/main)
+**Backend** : [EMR - Event Media Rugby](https://github.com/Hike42/RWC-23-EMR)
 
 Pour les repos React, tous réalisés à partir de Vite : 
 
